@@ -1,4 +1,4 @@
 
 x = [1,2,3,7]
 for i in x:
-    print(i, x[i])
+    print(i, x.index(i))
